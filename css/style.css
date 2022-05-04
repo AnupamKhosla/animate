@@ -16,6 +16,9 @@
 .nav-item {
     margin-right: 15px;;
 }
+.overflow-x-hidden {
+    overflow-x: hidden;
+}
 
 
 
